@@ -21,8 +21,3 @@ ScreenMatch é uma aplicação Java desenvolvida para busca e exibição de info
 - API REST externa  
 - API do ChatGPT  
 
-## Como executar
-
-1. Clone o repositório:  
-   ```bash
-   git clone [link do repositório]
